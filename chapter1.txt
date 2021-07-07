@@ -1,0 +1,11 @@
+this is some text I just wrote up in the chapter one.
+.exit
+quit
+skdkakdka top
+how do I exit again?
+q
+w
+:qw
+:qw
+shift + Z Z
+
